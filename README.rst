@@ -19,6 +19,7 @@ Suck posts from a Discourse forum.
 
 
 * Free software: MIT license
+
 .. * Documentation: https://discosuck.readthedocs.io.
 
 
